@@ -1,0 +1,9 @@
+{
+	"name": "i18n4d",
+	"authors": [
+		"donglei"
+	],
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2016, root",
+	"license": "proprietary"
+}
